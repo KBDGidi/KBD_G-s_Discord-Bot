@@ -111,10 +111,10 @@ Invitation-link: [link](https://discord.com/api/oauth2/authorize?client_id=10417
 
 This bot uses the following open source projects/packages:
 
-- [discord.js](http://electron.atom.io/)
+- [discord.js](https://discord.js.org/#/)
 - [Node.js](https://nodejs.org/)
-- [discord-player](https://github.com/chjj/marked)
-- [ffmpeg](http://showdownjs.github.io/showdown/)
+- [discord-player](https://discord-player.js.org/)
+- [ffmpeg](https://ffmpeg.org/)
 
 ## Support
 
