@@ -70,7 +70,7 @@ Invite the bot via this [link](https://discord.com/api/oauth2/authorize?client_i
 +-----+-------------------------+-------------------------------------------------------------------+
 | 1.  | /help                   | Shows a list of all commands                                      |
 | 2.  | /ping                   | Shows the bots ping                                               |
-| 3.  | /info                   | Shows info about users                                            |
+| 3.  | /userinfo               | Shows info about users                                            |
 +-----+-------------------------+-------------------------------------------------------------------+
 |     | Music                   |                                                                   |
 +-----+-------------------------+-------------------------------------------------------------------+
