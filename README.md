@@ -6,7 +6,7 @@
     KBD_G’s Discord Bot
   <br>
 </h1>
-<h2>
+<h2 align="center">
   <br>
     A general purpose discord bot with special features
   <br>
