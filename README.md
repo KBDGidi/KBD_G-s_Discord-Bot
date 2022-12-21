@@ -12,7 +12,7 @@
   <br>
 </h2>
 
-<h4 align="center">A discord bot built to have fun, listen to music and to server some administrative purposes, based on the programming language JavaScript with <a href="https://discord.js.org/#/" target="_blank">discord.js</a>.</h4>
+<h4 align="center">Built to have fun, listen to music and to serve some administrative purposes, based on the programming language JavaScript with <a href="https://discord.js.org/#/" target="_blank">discord.js</a>.</h4>
 
 <p align="center">
     <a href="#about-the-project">About</a> •
